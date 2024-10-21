@@ -1,4 +1,4 @@
-# Python-Program
+## Python-Program
 
 ### 1. **Basic Python Functions**:
    - Introduces function creation in Python, including defining functions, passing arguments, and returning results. It also covers advanced topics like lambda functions for concise code.
