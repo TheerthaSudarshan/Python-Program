@@ -1,7 +1,4 @@
 # Python-Program
-Here are **summarized descriptions** for each section of the repository README:
-
----
 
 ### 1. **Basic Python Functions**:
    - Introduces function creation in Python, including defining functions, passing arguments, and returning results. It also covers advanced topics like lambda functions for concise code.
